@@ -1,0 +1,70 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #d4f8d4 ;
+    color: #000000;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #fff5cc;
+    padding: 10px 40px;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.nav-link.active {
+    background: white;
+    color: black !important;
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+
+/* Header */
+.contact-header {
+    background-color: #d4f8d4;
+    color: rgb(3, 3, 3);
+    padding: 40px 20px;
+    border-radius: 0 0 20px 20px;
+    margin-bottom: 20px;
+}
+
+.feedback {
+    font-weight: 300;
+    letter-spacing: 4px;
+    margin-bottom: 30px;
+}
+
+/* Contact Card */
+.contact-card {
+    background-color: #fff5cc;
+    border: 3px solid #2f2d2a;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+
+.contact-card h5 {
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+.contact-card p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+/* Footer */
+.footer {
+    margin-top: 160px;
+    background-color: #fff5cc;
+    color: black;
+    padding: 15px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
